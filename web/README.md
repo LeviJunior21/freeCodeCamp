@@ -41,3 +41,4 @@ redirects you to
 http://localhost:8000/learn/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element/587d774e367417b2b2512a9f
 
 but not all paths behave as desired.
+
